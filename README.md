@@ -19,7 +19,6 @@ This repository contains my data analysis and preprocessing tasks completed duri
   - Checked for duplicate records (`duplicated()`) and removed duplicates with `drop_duplicates()`.
   - Standardized the `species` column (`astype(str).str.lower().str.strip()`).
   - Exported the cleaned dataset to `final_iris.csv` without the extra index column (`index=False`).
-- **Tools & Libraries:** Python, Google Colab, `pandas`.
+- **Tools & Libraries:** Python, `pandas`.
 
-## Future Tasks
-- Complete the second task in Level 1, followed by at least two tasks each in Level 2 and Level 3.
+
